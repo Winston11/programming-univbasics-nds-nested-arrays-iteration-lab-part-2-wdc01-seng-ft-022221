@@ -1,4 +1,4 @@
-require "pry"
+# require "pry"
 def find_min_in_nested_arrays(src)
   min_nested_arrays=[]
   row_index = 0
